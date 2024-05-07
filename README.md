@@ -11,5 +11,5 @@
 
 
 
-![alt text](example.com/logo.png)
+![alt text](https://github.com/EImran4ik/ImrOS-v.0.0.1/blob/main/ImrOS.png)
 
