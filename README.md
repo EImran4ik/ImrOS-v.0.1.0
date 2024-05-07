@@ -1,5 +1,5 @@
 # ImrOS-v.0.0.1
-*ImrOS* - is operating system, created on assembly programming language.
+*ImrOS* - is open source operating system, created on assembly programming language.
 
 # Downloading the OS on your computer:
   I. Installation on a USB flash drive:
