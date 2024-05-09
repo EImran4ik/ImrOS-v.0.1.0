@@ -1,6 +1,18 @@
-# ImrOS-v.0.0.1
+# ImrOS-v.0.1.0
 *ImrOS* - is open source operating system, created on assembly programming language.
 
+# *Changes*:
+*I am glad to congratulate everyone!* 🥳 *This is the first update to my operating system.*
+
+What was added:
+
+     1. Keyboard input ⌨️
+     2. Similarity of the core
+     3. creating new lines
+     4. Changed the text color to white (I want to create something similar
+     on MS-DOS)
+     5. transfer of OS from FASM to NASM
+     
 # Downloading the OS on your computer:
   I. Installation on a USB flash drive:
   
