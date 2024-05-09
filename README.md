@@ -23,5 +23,5 @@ What was added:
 
 
 
-![alt text](https://github.com/EImran4ik/ImrOS-v.0.0.1/blob/main/ImrOS(2).png)
+![alt text](https://github.com/EImran4ik/ImrOS-v.0.0.1/blob/main/ImrOS%20(2).png)
 
